@@ -208,3 +208,5 @@ fabric.properties
 .vscode/
 
 # End of https://www.gitignore.io/api/flutter,androidstudio
+
+!social_share_plugin.iml
